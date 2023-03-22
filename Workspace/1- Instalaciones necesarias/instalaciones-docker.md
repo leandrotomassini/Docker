@@ -12,8 +12,10 @@
 
 4. [Postman](https://www.postman.com/downloads/)
 
-5. [Docker Desktop](https://www.docker.com/get-started)
-
+5. [Docker Desktop](https://www.docker.com/get-started)  
+   [Kernel de Linux para Windows](https://www.microsoft.com/store/productId/9PDXGNCFSCZV)  
+   [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701)  
+   
 6. Table Plus: 
   * [Windows / Mac OSX](https://tableplus.com/)
   * [Linux](https://tableplus.com/linux)
