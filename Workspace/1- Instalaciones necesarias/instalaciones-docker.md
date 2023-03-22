@@ -2,7 +2,7 @@
   <a href="https://docs.docker.com/" target="blank"><img src="https://devtalles.com/images/moby.png" width="200" alt="Docker Logo" /></a>
 </p>
 
-# Guía definitiva de Docker para desarrolladores
+# Guía de instalación de Docker para desarrolladores
 
 1. [Node JS](https://nodejs.org/es/)
 
