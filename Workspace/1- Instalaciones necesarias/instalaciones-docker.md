@@ -12,19 +12,13 @@
 
 4. [Postman](https://www.postman.com/downloads/)
 
-5. [Git](https://git-scm.com/)
-```
-git config --global user.name "Tu nombre"
-git config --global user.email "Tu correo"
-```
+5. [Docker Desktop](https://www.docker.com/get-started)
 
-6. [Docker Desktop](https://www.docker.com/get-started)
-
-7. Table Plus: 
+6. Table Plus: 
   * [Windows / Mac OSX](https://tableplus.com/)
   * [Linux](https://tableplus.com/linux)
 
-8. [Guías de atajos Docker]()
+7. [Guías de atajos Docker]()
 
 
 ## Extensiones de VSCode
