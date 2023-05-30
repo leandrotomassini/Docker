@@ -1,0 +1,1 @@
+docker container run --name nest-app -w /app -p 80:3000 -v "C:/Users/Aire Público/Documents/Repositorios/Docker/workspace/2/01-nest-graphql/nest-graphql":/app node:16-alpine3.16 sh -c "yarn install && yarn start:dev"
