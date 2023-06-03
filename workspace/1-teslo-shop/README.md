@@ -29,3 +29,10 @@ Ejecutar este comando
 docker compose -f docker-compose.yml build
 ```
 
+```
+docker buildx build --platform \
+linux/amd64 \
+-t airepublico/tesloshop:1.1.0 \
+--push .
+
+```
