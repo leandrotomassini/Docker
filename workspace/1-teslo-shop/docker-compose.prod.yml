@@ -9,10 +9,7 @@ services:
       target: ${STAGE}
       dockerfile: Dockerfile
 
-    volumes:
-      - .:/app/
-      - /app/node_modules
-
+    image: airepublico/teslo-shop-backend:2.5.0
     container_name: nest-app
 
     ports:
